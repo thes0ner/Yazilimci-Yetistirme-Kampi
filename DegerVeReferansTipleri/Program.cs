@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DegerVeReferansTipleri
+namespace ValueandReferenceTypes
 {
     class Program
     {

@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methods", "Methods\Methods.csproj", "{A9D8C0C2-C1B2-43F6-ADA0-CAC3E2013D59}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DegerVeReferansTipleri", "DegerVeReferansTipleri\DegerVeReferansTipleri.csproj", "{53920BCF-3F16-4EFF-AA19-D796B1F921B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValueandReferenceTypes", "DegerVeReferansTipleri\ValueandReferenceTypes.csproj", "{53920BCF-3F16-4EFF-AA19-D796B1F921B6}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassIntro", "ClassIntro\ClassIntro.csproj", "{25B0A9C8-714D-4E02-9FE6-8F795FF68E4C}"
 EndProject
